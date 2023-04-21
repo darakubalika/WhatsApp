@@ -36,7 +36,7 @@ module.exports = {
 
 ## Contoh Options
 
-Contoh Command : [`./commands/other/botstat.js`](https://github.com/SkylarKaf/elaina-md/blob/master/commands/other/botstat.js)<br />
+Contoh Command : [`./commands/other/botstat.js`](https://github.com/deusec/WhatsApp/blob/master/commands/other/botstat.js)<br />
 
 ```js
 {
@@ -59,7 +59,7 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/SkylarKaf/el
 
 # Baca Ini!
 - Sc ini hasil recode dari: [Kanaeru](https://github.com/Zynfinity/Kanaeru-Bot)
-- Ganti Owner: [Config](https://github.com/SkylarKaf/elaina-md/blob/master/config.js)
+- Ganti Owner: [Config](https://github.com/deusec/WhatsApp/blob/master/config.js)
 - Library: [AmirulDev Baileys](https://www.npmjs.com/package/baileys)
 - Session: MultiFileAuthState
 - Support: Ubuntu, Windows, Termux & Panel

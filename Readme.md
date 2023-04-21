@@ -158,6 +158,7 @@ npm start
 
 # Thanks To
 
+-    [`DeusecInc`](https://github.com/deusec)
 -    [`RzkyFdlh`](https://github.com/Rizky878)
 -    [`Zynfinity`](https://github.com/Zynfinity)
 -    [`AmirulDev20`](https://github.com/amiruldev20)

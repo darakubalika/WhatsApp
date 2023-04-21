@@ -1,4 +1,4 @@
-<h1 align='center'>Welcome👋 :wave:</h1>
+<h1 align='center'>Welcome</h1>
 
 <div align="center">
 <img src="https://telegra.ph/file/9a2ef1310014cea3be04e.jpg" alt="ELAINA MD" width="300" />
@@ -68,7 +68,7 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/SkylarKaf/el
 ## Untuk yang Run Panel!!
 - Pastikan panel tersebut Support webpmux! 
 - Jika tidak paham chat owner untuk bertanya
-- [`Owner Here`](https://wa.me/6282331660134?text=Bang) 
+- [`Owner Here`](https://wa.me/6281327893987?text=Bang) 
 
 ## Instalasi
 

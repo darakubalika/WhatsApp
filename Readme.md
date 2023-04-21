@@ -20,7 +20,7 @@ Options pada command, yang akan mempermudah kamu untuk membuat/menambahkan fitur
 
 ```js
 module.exports = {
-   name: <String> or <Array>, // Ex: "menu"
+   name: <String>, or <Array>, // Ex: "menu"
    cmd: <Array>, // Ex: ["cmd","help"]
    desc: <String>, // Ex: "Menu adalah command"
    param: <String>,  // Ex: "<teks>"

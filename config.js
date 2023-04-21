@@ -16,21 +16,21 @@ const mess = {
 		limit: "Limit anda sudah habis, silahkan gunakan fitur ini esok hari"
 }
 class config {
-	static botname = "@elaina-md"
+	static botname = "@WhatsApp"
 	static server = true
-	static email = 'skylarkaf07@gmail.com'
-	static instagram = 'https://instagram.com/skylarkaf_'
-	static wagrup = 'https://chat.whatsapp.com/InsJNQYzm0W66YQmNa5jX9'
+	static email = 'support@tolol.ml'
+	static instagram = 'https://tolol.ml'
+	static wagrup = 'https://chat.whatsapp.com/0uIJW6fDdGp7OOPPHQn74d'
 	static adRep1 = 'https://telegra.ph/file/562e41de727f605b9ad93.jpg'
 	static adRep2 = 'https://telegra.ph/file/9d155a6d06a7b290b8ffe.jpg'
 	static prefixs = "multi"
 	static session = "xyz"
-	static ownername = "SkylarKaf"
+	static ownername = "WhatsApp"
 	static self = false
 	static packInfo = { packname: "Elaina - MD", author: "instagram: @skylarkaf_" }
-	static namebot = "elaina-chan"
+	static namebot = "WhatsApp"
 	static limit = 50
-	static owner = ["6282331660134@s.whatsapp.net"];	
+	static owner = ["6281327893987@s.whatsapp.net"];	
 }
 
 //reload command/function
@@ -90,7 +90,7 @@ global.maker = require('mumaker');
 global.rzky = new iky();
 
 //other
-global.creator = '@skylarkaf';
+global.creator = '@WhatsApp';
 global.owner = config.owner;
 global.response = mess;
 global.users = JSON.parse(fs.readFileSync('./database/json/user.json'));

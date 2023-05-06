@@ -140,7 +140,7 @@ pacman -S libwebp
 
 ```bash
 # clone repo
-git clone --depth=1 https://github.com/SkylarKaf/elaina-md
+git clone --depth=1 https://github.com/deusec/WhatsApp
 
 # ubah posisi direktori kamu
 cd elaina-md

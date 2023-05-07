@@ -143,7 +143,7 @@ pacman -S libwebp
 git clone --depth=1 https://github.com/deusec/WhatsApp
 
 # ubah posisi direktori kamu
-cd elaina-md
+cd WhatsApp
 
 # install semua module
 npm install

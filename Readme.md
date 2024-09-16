@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://telegra.ph/file/9a2ef1310014cea3be04e.jpg" alt="ELAINA MD" width="300" />
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=SkylarKaf&color=blue&label=Views" />
+ <img src="https://komarev.com/ghpvc/?username=darakubalika&color=blue&label=Views" />
  </p>
 <p align="center">
-CREDIT JAN DI HAPUS!
+CREDIT
 
 Jikalau kau ingin di hargai, Hargai org terlebih dahulu
 <br/>

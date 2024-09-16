@@ -36,7 +36,7 @@ module.exports = {
 
 ## Contoh Options
 
-Contoh Command : [`./commands/other/botstat.js`](https://github.com/deusec/WhatsApp/blob/master/commands/other/botstat.js)<br />
+Contoh Command : [`./commands/other/botstat.js`](https://github.com/darakubalika/WhatsApp/blob/master/commands/other/botstat.js)<br />
 
 ```js
 {
@@ -58,8 +58,7 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/deusec/Whats
 -   [x] Anti Pasaran!
 
 # Baca Ini!
-- Sc ini hasil recode dari: [Kanaeru](https://github.com/Zynfinity/Kanaeru-Bot)
-- Ganti Owner: [Config](https://github.com/deusec/WhatsApp/blob/master/config.js)
+- Ganti Owner: [Config](https://github.com/darakubalika/WhatsApp/blob/master/config.js)
 - Library: [AmirulDev Baileys](https://www.npmjs.com/package/baileys)
 - Session: MultiFileAuthState
 - Support: Ubuntu, Windows, Termux & Panel
@@ -68,7 +67,7 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/deusec/Whats
 ## Untuk yang Run Panel!!
 - Pastikan panel tersebut Support webpmux! 
 - Jika tidak paham chat owner untuk bertanya
-- [`Owner Here`](https://wa.me/6281327893987?text=Bang) 
+- [`Owner Here`](https://wa.me/628882890336?text=Bang) 
 
 ## Instalasi
 
@@ -87,8 +86,8 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/deusec/Whats
 > pkg install yarn
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone https://github.com/SkylarKaf/elaina-md
-> cd elaina-md
+> git clone https://github.com/darakubalika/WhatsApp
+> cd WhatsApp
 > yarn install
 > npm start
 # Scan QR
@@ -140,7 +139,7 @@ pacman -S libwebp
 
 ```bash
 # clone repo
-git clone --depth=1 https://github.com/deusec/WhatsApp
+git clone --depth=1 https://github.com/darakubalika/WhatsApp
 
 # ubah posisi direktori kamu
 cd WhatsApp
@@ -153,20 +152,6 @@ yarn install
 npm start
 ```
 
-# Test bot
-[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6283863318555?text=.menu)
-
-# Thanks To
-
--    [`DeusecInc`](https://github.com/deusec)
--    [`RzkyFdlh`](https://github.com/Rizky878)
--    [`Zynfinity`](https://github.com/Zynfinity)
--    [`AmirulDev20`](https://github.com/amiruldev20)
--    [`SkylarKaf`](https://github.com/SkylarKaf)
--    [`Ferdiz`](https://github.com/FERDIZ-afk)
--    [`xzeraaID`](https://github.com/xzeera-id)
--    [`Alya`](https://github.com/alya-tok)
--    [`Lui`](https://github.com/luiii24)
 
 
 
